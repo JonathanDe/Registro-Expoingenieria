@@ -1,0 +1,8 @@
+.container {
+    margin-top: 3em;
+}
+
+video {
+    width: 100%;
+    border-bottom: 4px solid #00e676;
+}
