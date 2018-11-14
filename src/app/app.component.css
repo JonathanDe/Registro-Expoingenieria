@@ -4,5 +4,6 @@
 
 video {
     width: 100%;
+    position: absolute;
     border-bottom: 4px solid #00e676;
 }
