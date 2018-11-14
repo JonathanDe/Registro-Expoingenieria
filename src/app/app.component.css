@@ -7,3 +7,12 @@ video {
     position: absolute;
     border-bottom: 4px solid #00e676;
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    max-width: 50%;
+    margin: 0 auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
